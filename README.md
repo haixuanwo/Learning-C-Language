@@ -3,7 +3,7 @@
  * @Email: haixuanwoTxh@gmail.com
  * @Date: 2026-03-27 10:54:03
  * @LastEditors: Clark
- * @LastEditTime: 2026-04-02 10:30:40
+ * @LastEditTime: 2026-04-09 17:16:25
  * @Description: file content
 -->
 
@@ -25,7 +25,11 @@
 ## 03_Makefile与cmake与git
 构建项目框架
 
-## 04_GDB调试
+## 04_Soft_Test
+项目开发过程的软件测试
+- 单元测试
+- 自动化测试
+- Debug
 程序员很大部分的工作就是调试来解决bug
 
 ## 05_Project
