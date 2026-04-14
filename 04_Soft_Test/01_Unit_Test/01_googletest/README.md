@@ -3,7 +3,7 @@
  * @Email: haixuanwoTxh@gmail.com
  * @Date: 2026-04-10 16:01:27
  * @LastEditors: Clark
- * @LastEditTime: 2026-04-10 19:03:36
+ * @LastEditTime: 2026-04-14 18:25:41
  * @Description: file content
 -->
 
@@ -32,8 +32,8 @@ sudo make install
 使用find_package(GTest REQUIRED)命令来查找googletest，并链接到项目中。
 
 
-
-# 本仓库的CMake中有一个在工程中下载googletest的示例，可以参考：
+## （3）在工程中下载源码
+本仓库的CMake中有一个在工程中下载googletest的示例，可以参考：
 Learning-C-Language/03_Tool/02_CMake/cmake-examples/05-unit-testing/google-test-download
 
 

@@ -3,7 +3,7 @@
  * @Email: haixuanwoTxh@gmail.com
  * @Date: 2026-04-09 17:28:12
  * @LastEditors: Clark
- * @LastEditTime: 2026-04-09 18:21:19
+ * @LastEditTime: 2026-04-12 11:57:37
  * @Description: file content
 -->
 
@@ -39,7 +39,7 @@
 
 
 # 单元测试框架
-谷歌gtest使用较广泛
+## 在C++中谷歌gtest使用较广泛
 
 官方文档
 https://google.github.io/googletest/
@@ -47,5 +47,10 @@ https://google.github.io/googletest/
 源码仓库
 https://github.com/google/googletest.git
 
+## 在嵌入式C语言中Unity使用较多
+
+https://github.com/ThrowTheSwitch/Unity
+
+官方文档
 
 
