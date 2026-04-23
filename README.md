@@ -3,7 +3,7 @@
  * @Email: haixuanwoTxh@gmail.com
  * @Date: 2026-03-27 10:54:03
  * @LastEditors: Clark
- * @LastEditTime: 2026-04-12 08:50:52
+ * @LastEditTime: 2026-04-16 16:26:08
  * @Description: file content
 -->
 
@@ -65,3 +65,16 @@
 
 ## 09_Interview_Questions
 面试题集锦
+
+
+# glibc库源码
+https://www.gnu.org/software/libc/
+https://ftp.gnu.org/gnu/glibc/
+
+
+# uclibc库源码
+面向嵌入式Linux系统的小型的C标准库
+https://www.uclibc.org/
+git clone git://uclibc.org/uClibc.git
+https://www.uclibc.org/downloads/snapshots/
+
